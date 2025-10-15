@@ -1,0 +1,28 @@
+{
+  "testUser": {
+    "email": "fake.test@example.com",
+    "password": "Password123"
+  },
+  "household": {
+    "address": "123 FAKE Street",
+    "city": "FAKE City",
+    "state": "CA",
+    "zipCode": "90210"
+  },
+  "person": {
+    "firstName": "FAKERon",
+    "lastName": "FAKESwanson",
+    "dateOfBirth": "01/15/1990",
+    "gender": "Male",
+    "relationship": "SELF",
+    "phoneNumber": "555-0123"
+  },
+  "newPerson": {
+    "firstNamePrefix": "FAKE Test",
+    "lastNamePrefix": "FAKE User",
+    "dateOfBirth": "03/10/1992",
+    "gender": "FEMALE",
+    "relationship": "SELF",
+    "phoneNumber": "555-8888"
+  }
+}
